@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a computer science student at the TU Darmstadt. 
+
+I'm interested how to combine AI in to the development as I see it as an opportunity to keep learning.
+
+When I am not coding or studying for exams I like to read books📚.
+
+---
+### A bit more about me
+
+- 🏫 Currently studying at TU Darmstadt with a focus on AI & Machine Learning and Cyber-security
+- 💬 Fluent in German and English
+- ⚡ Hobbies: Pc Hardware, Linux (Kde on top)
